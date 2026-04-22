@@ -1,0 +1,4 @@
+streamlit
+PyPdf2
+scikit-learn
+nltk
