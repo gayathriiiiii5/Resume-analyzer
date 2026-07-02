@@ -14,7 +14,7 @@ A web application that analyzes resumes and provides feedback to improve job app
 - JavaScript
 
 ## GitHub Repository
-[Repository Link]
+https://github.com/gayathriiiiii5/Resume-analyzer/tree/main
 
 ## Author
 Gayathri
